@@ -78,9 +78,3 @@ Feel free to make a pull request.
 |   Math    |   Calculation Function    |   ✅    |
 
 ## Contributors
-<table>
-  <tr>
-<td align="center"><a href="https://github.com/FaizBastomi" target="_blank"><img src="https://avatars3.githubusercontent.com/u/64179402?s=400&u=e571e59ee3bbc85379fccad978539ea0b926a9cb&v=4" width="100px;" alt=""/></a><br />
-<sub><b>Faiz Bastomi</b></sub><br /></td>
-  </tr>
-</table>
