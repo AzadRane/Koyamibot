@@ -38,7 +38,7 @@ This Project Need NodeJS 14x
 ### Cloning
 ```sh
 > git clone https://github.com/AzadRane/Koyamibot.git
-> cd kaguya-bot
+> cd koyami-bot
 ```
 Install the dependencies:
 ```sh
